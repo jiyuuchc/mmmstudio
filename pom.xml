@@ -2,7 +2,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>edu.uchc.octane</groupId>
   <artifactId>mmmstudio</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
   <name>mmmstudio</name>
   <description>mimimal non-gui wrapper for micromanager file format</description>
   <build>
@@ -47,4 +46,5 @@
   		</exclusions>
   	</dependency>
   </dependencies>
+  <version>1.0</version>
 </project>
